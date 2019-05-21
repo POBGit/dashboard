@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0bf4b44b-3dff-4270-ae43-4af76e12a62e" name="Default Changelist" comment="" />
+    <list default="true" id="0bf4b44b-3dff-4270-ae43-4af76e12a62e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/vues/VueReglages.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/vues/VueReglages.class.php" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,11 +37,20 @@
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/vues/VueProjet.class.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="330">
-                  <caret line="25" column="19" lean-forward="true" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+                <state relative-caret-position="540">
+                  <caret line="36" column="72" lean-forward="true" selection-start-line="36" selection-start-column="72" selection-end-line="36" selection-end-column="72" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/vues/VueReglages.class.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="360">
+                  <caret line="24" column="148" selection-start-line="24" selection-start-column="148" selection-end-line="24" selection-end-column="148" />
                 </state>
               </provider>
             </entry>
@@ -77,6 +88,9 @@
       <replace>'</replace>
     </replaceStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -85,12 +99,12 @@
         <option value="$PROJECT_DIR$/../index.html" />
         <option value="$PROJECT_DIR$/../index.php" />
         <option value="$PROJECT_DIR$/js/reglages.js" />
-        <option value="$PROJECT_DIR$/vues/VueReglages.class.php" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/vues/VueSite.class.php" />
         <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/controleur/Controleur.class.php" />
         <option value="$PROJECT_DIR$/vues/VueProjet.class.php" />
+        <option value="$PROJECT_DIR$/vues/VueReglages.class.php" />
       </list>
     </option>
   </component>
@@ -98,6 +112,7 @@
     <option name="width" value="1920" />
     <option name="height" value="1032" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -123,6 +138,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/medias" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
@@ -163,12 +179,12 @@
       <workItem from="1558394041514" duration="163000" />
       <workItem from="1558394289162" duration="10241000" />
       <workItem from="1558466156992" duration="1237000" />
-      <workItem from="1558471231593" duration="4500000" />
+      <workItem from="1558471231593" duration="4521000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23238000" />
+    <option name="totallyTimeSpent" value="23259000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1032" extended-state="6" />
@@ -227,13 +243,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vues/VueReglages.class.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="30" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vues/VueSite.class.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="570">
@@ -271,8 +280,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/vues/VueProjet.class.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="25" column="19" lean-forward="true" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+        <state relative-caret-position="540">
+          <caret line="36" column="72" lean-forward="true" selection-start-line="36" selection-start-column="72" selection-end-line="36" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vues/VueReglages.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="148" selection-start-line="24" selection-start-column="148" selection-end-line="24" selection-end-column="148" />
         </state>
       </provider>
     </entry>

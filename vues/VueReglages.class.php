@@ -22,7 +22,7 @@ class VueReglages {
                             <div class='form-input'>
                                 <label for='sMotDePasseMysql'>Mot de passe</label>
                                 <div class='form-password'>
-                                    <input type='password' id='sMotDePasseMysql' name='sMotDePasseMysql' placeholder='Mot de passe MySQL...' value='Hockey31'>
+                                    <input type='password' id='sMotDePasseMysql' name='sMotDePasseMysql' placeholder='Mot de passe MySQL...' value=''>
                                     <button data-see='false' id='btnMdpMysql'><i class='fas fa-eye'></i></button>
                                 </div>                             
                             </div>
